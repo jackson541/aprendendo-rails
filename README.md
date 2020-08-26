@@ -1,24 +1,23 @@
-# README
+# <div align='center'> Crud básico de Rails </div> 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Este projeto foi desenvolvido com o auxílio do [guia oficial do Rails](https://guides.rubyonrails.org/getting_started.html). Aqui podemos encontrar as configurações básicas para a realização de um CRUD. Está em um nível realmente simples (até sem css rsrs), mas é de extrema utilidade para quem desejar ver a forma como se trabalhar determinada função no Rails. 
+<br>
 
-Things you may want to cover:
+![Imagem do rails](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png)
 
-* Ruby version
+Foram utilizadas as seguintes tecnologias:
 
-* System dependencies
+* [Ruby](https://www.ruby-lang.org/pt/)
+* [Ruby on Rails](https://rubyonrails.org/)
 
-* Configuration
+# Executando o projeto
+1 - execute o comando:
+`rails server`
 
-* Database creation
+2 - acesse a rota:
+`http://localhost:3000`
 
-* Database initialization
+## Demais pontos
+Caso você ainda não tenha os conhecimentos básicos de Ruby, recomendo que acesse [este tutorial](https://try.ruby-lang.org/), ele esplica muito bem (até para aqueles que não tem nenhum conhecimento em programação).
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+A documentação do Rails também fornece vários outros guias mais avançados e específicos sobre a linguagem, sobre views, controllers, models, testes, segurança, entre outros. [Acesse a lista dos outros guias aqui](https://guides.rubyonrails.org/index.html)
