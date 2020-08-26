@@ -1,5 +1,8 @@
 # <div align='center'> Crud básico de Rails </div> 
 
+![](https://img.shields.io/static/v1?label=ruby&message=v2.7.1&color=red&style=for-the-badge&logo=RUBY)
+![](https://img.shields.io/static/v1?label=rails&message=v6.0.3&color=red&style=for-the-badge&logo=RAILS)
+
 Este projeto foi desenvolvido com o auxílio do [guia oficial do Rails](https://guides.rubyonrails.org/getting_started.html). Aqui podemos encontrar as configurações básicas para a realização de um CRUD. Está em um nível realmente simples (até sem css rsrs), mas é de extrema utilidade para quem desejar ver a forma como se trabalhar determinada função no Rails. 
 <br>
 
@@ -10,7 +13,17 @@ Foram utilizadas as seguintes tecnologias:
 * [Ruby](https://www.ruby-lang.org/pt/)
 * [Ruby on Rails](https://rubyonrails.org/)
 
-# Executando o projeto
+## Conceitos apresentados
+Nesse projeto são apresentados alguns conceitos importantes:
+- Utilizar a view
+- Utilizar o controller
+- Utilizar o model
+- Implementar relacionamentos entre os modelos
+- Operações de CRUD (Create, Read, Update, Delete)
+- Utilizar comandos de criação do Rails
+- Segurança básica no Rails
+
+## Executando o projeto
 1 - execute o comando:
 `rails server`
 
